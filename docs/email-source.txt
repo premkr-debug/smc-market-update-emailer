@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="format-detection" content="telephone=no,address=no,email=no,date=no">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<title>Market ki Halchal - 26 Nov 2026</title>
+<!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><style>td,th,div,p,a,h1,h2,h3{font-family:Arial,Helvetica,sans-serif !important;}</style><![endif]-->
+<style>
+  body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+  table,td{mso-table-lspace:0;mso-table-rspace:0;}
+  img{-ms-interpolation-mode:bicubic;border:0;outline:none;text-decoration:none;}
+  body{margin:0!important;padding:0!important;width:100%!important;background:#070b22;}
+  @media screen and (max-width:620px){
+    .wrap{width:100%!important;}
+    .col{display:block!important;width:100%!important;}
+    .gap{display:none!important;height:0!important;}
+    .vgap{display:block!important;height:14px!important;line-height:14px!important;font-size:14px!important;}
+    .title{font-size:30px!important;line-height:34px!important;}
+    .idx-name{font-size:17px!important;}
+    .side-img{width:48px!important;height:auto!important;}
+    .px{padding-left:12px!important;padding-right:12px!important;}
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background-color:#070b22;">
+<div style="display:none;font-size:1px;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;mso-hide:all;">
+  Sensex 84,321.68 (+0.46%) | Nifty 25,897.40 (+0.30%)&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#070b22" style="background-color:#070b22;">
+<tr><td align="center" style="padding:0;">
+<!--[if mso]><table role="presentation" width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+<table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#0b1030" style="width:600px;max-width:600px;background-color:#0b1030;">
+
+  <!-- LOGO -->
+  <tr><td class="px" align="right" style="padding:16px 20px 0 20px;">
+    <img src="https://premkr-debug.github.io/smc-market-update-emailer/assets/logo.png" width="120" alt="SMC - moneywise. be wise." style="display:block;width:120px;max-width:120px;height:auto;color:#ffffff;font:bold 16px Arial,sans-serif;">
+  </td></tr>
+
+  <!-- TITLE -->
+  <tr><td class="px" style="padding:6px 20px 0 20px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td width="70" align="left" valign="middle"><img class="side-img" src="https://premkr-debug.github.io/smc-market-update-emailer/assets/bull.png" width="70" alt="" style="display:block;width:70px;height:auto;"></td>
+      <td align="center" valign="middle" class="title" style="font:italic 500 40px/44px Arial,Helvetica,sans-serif;color:#ffffff;letter-spacing:1px;">MARKET <span style="font-size:60%;">KI</span> HALCHAL</td>
+      <td width="70" align="right" valign="middle"><img class="side-img" src="https://premkr-debug.github.io/smc-market-update-emailer/assets/bear.png" width="70" alt="" style="display:block;width:70px;height:auto;"></td>
+    </tr></table>
+  </td></tr>
+
+  <!-- DATE -->
+  <tr><td align="center" style="padding:12px 20px 0 20px;font:500 14px/20px Arial,Helvetica,sans-serif;color:#dfe5ff;letter-spacing:.5px;">
+    26 NOVEMBER 2026 &nbsp;|&nbsp; 03:14 PM
+  </td></tr>
+
+  <!-- INDICES -->
+  <tr><td class="px" style="padding:22px 20px 0 20px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+    
+      <td class="col" width="50%" align="center" valign="top">
+        <div class="idx-name" style="font:bold 20px/26px Arial,Helvetica,sans-serif;color:#ffffff;">SENSEX: 84,321.68</div>
+        <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;"><tr>
+          <td bgcolor="#0f3d33" style="background-color:#0f3d33;border-radius:20px;padding:6px 16px;font:bold 15px/20px Arial,Helvetica,sans-serif;color:#25f58a;">
+            &#9650; +383.40 (+0.46%)
+          </td></tr></table>
+      </td>
+      <td class="vgap" style="font-size:0;line-height:0;height:0;">&nbsp;</td>
+    
+      <td class="col" width="50%" align="center" valign="top">
+        <div class="idx-name" style="font:bold 20px/26px Arial,Helvetica,sans-serif;color:#ffffff;">NIFTY: 25,897.40</div>
+        <table role="presentation" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-top:8px;"><tr>
+          <td bgcolor="#0f3d33" style="background-color:#0f3d33;border-radius:20px;padding:6px 16px;font:bold 15px/20px Arial,Helvetica,sans-serif;color:#25f58a;">
+            &#9650; +78.15 (+0.30%)
+          </td></tr></table>
+      </td>
+      
+    
+    </tr></table>
+  </td></tr>
+
+  <!-- GAINERS / LOSERS -->
+  <tr><td class="px" style="padding:24px 20px 0 20px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+
+      <td class="col" width="49%" valign="top">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0e4a3c" style="background-color:#0e4a3c;border-radius:10px;">
+          <tr><td colspan="2" align="center" bgcolor="#14604d" style="background-color:#14604d;border-radius:10px 10px 0 0;padding:12px 8px;font:bold 16px/20px Arial,Helvetica,sans-serif;color:#25f58a;">Top Gainers - NIFTY 50</td></tr>
+          
+          <tr bgcolor="#0b3d31" style="background-color:#0b3d31;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">HCL Technologies</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,462.60<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+82.60 (+5.99%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0e4a3c" style="background-color:#0e4a3c;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">BSE</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">3,996.30<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+221.10 (+5.86%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0b3d31" style="background-color:#0b3d31;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Infosys</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,181.20<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+51.20 (+4.53%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0e4a3c" style="background-color:#0e4a3c;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Tata Consultancy</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">2,624.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+106.70 (+4.24%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0b3d31" style="background-color:#0b3d31;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Hindalco</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">917.50<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+27.60 (+3.10%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0e4a3c" style="background-color:#0e4a3c;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Tech Mahindra</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,857.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+55.80 (+3.10%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0b3d31" style="background-color:#0b3d31;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Tata Steel</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">163.29<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+3.99 (+2.50%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0e4a3c" style="background-color:#0e4a3c;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Jio Financial Se</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">227.40<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+4.55 (+2.04%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0b3d31" style="background-color:#0b3d31;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">HDFC Bank</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">862.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+15.80 (+1.87%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#0e4a3c" style="background-color:#0e4a3c;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Reliance Industr</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,396.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#25f58a;">+22.10 (+1.61%)</span></td>
+          </tr>
+          
+        </table>
+      </td>
+
+      <td class="gap" width="2%" style="font-size:0;line-height:0;">&nbsp;</td>
+      <td class="vgap" style="display:none;font-size:0;line-height:0;height:0;">&nbsp;</td>
+
+      <td class="col" width="49%" valign="top">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#4a1a28" style="background-color:#4a1a28;border-radius:10px;">
+          <tr><td colspan="2" align="center" bgcolor="#5e2234" style="background-color:#5e2234;border-radius:10px 10px 0 0;padding:12px 8px;font:bold 16px/20px Arial,Helvetica,sans-serif;color:#ff6b6b;">Top Losers - NIFTY 50</td></tr>
+          
+          <tr bgcolor="#3d1520" style="background-color:#3d1520;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Asian Paints</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">2,550.20<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−71.00 (−2.71%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#4a1a28" style="background-color:#4a1a28;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Shriram Finance</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">963.60<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−26.35 (−2.66%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#3d1520" style="background-color:#3d1520;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Bajaj Finance</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,102.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−29.35 (−2.59%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#4a1a28" style="background-color:#4a1a28;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Nestle India</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,326.50<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−32.00 (−2.36%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#3d1520" style="background-color:#3d1520;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">TATA Cons. Prod</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,161.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−24.80 (−2.09%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#4a1a28" style="background-color:#4a1a28;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Bajaj Finserv</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,886.90<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−38.10 (−1.98%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#3d1520" style="background-color:#3d1520;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Eicher Motors</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">8,195.50<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−140.50 (−1.69%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#4a1a28" style="background-color:#4a1a28;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">ICICI Bank</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">1,613.70<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−26.30 (−1.60%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#3d1520" style="background-color:#3d1520;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Interglobe Avi</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">5,647.40<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−72.60 (−1.27%)</span></td>
+          </tr>
+          
+          <tr bgcolor="#4a1a28" style="background-color:#4a1a28;">
+            <td align="left" valign="middle" style="padding:10px 6px 10px 10px;font:500 14px/18px Arial,Helvetica,sans-serif;color:#ffffff;">Trent</td>
+            <td align="right" valign="middle" style="padding:10px 10px 10px 6px;font:bold 14px/17px Arial,Helvetica,sans-serif;color:#ffffff;white-space:nowrap;">3,280.00<br><span style="font:500 11px/14px Arial,Helvetica,sans-serif;color:#ff6b6b;">−39.60 (−1.19%)</span></td>
+          </tr>
+          
+          
+        </table>
+      </td>
+    </tr></table>
+  </td></tr>
+
+  <!-- FOOTER LINE -->
+  <tr><td class="px" align="center" style="padding:22px 20px 0 20px;font:500 12px/18px Arial,Helvetica,sans-serif;color:#ffffff;">USD/INR - 92.465 (-0.37%)</td></tr>
+
+  <!-- DISCLAIMER -->
+  <tr><td class="px" align="center" style="padding:14px 24px 22px 24px;font:11px/16px Arial,Helvetica,sans-serif;color:#aab3d6;">
+    Disclaimer: Investment in securities market are subject to market risks. Read all the related documents carefully before investing.<br>
+    <a href="https://www.smctradeonline.com/disclaimer" style="color:#aab3d6;text-decoration:underline;">www.smctradeonline.com/disclaimer</a>
+    <!-- Add WebEngage unsubscribe / footer block here from the WebEngage editor -->
+  </td></tr>
+
+</table>
+<!--[if mso]></td></tr></table><![endif]-->
+</td></tr></table>
+</body>
+</html>
