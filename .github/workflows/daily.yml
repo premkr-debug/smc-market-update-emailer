@@ -1,0 +1,26 @@
+name: Daily market update email
+on:
+  schedule:
+    - cron: "20 10 * * 1-5"   # 10:20 UTC = 3:50 PM IST, Mon-Fri
+  workflow_dispatch: {}        # manual "Run workflow" button
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python market_update.py
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          FORCE: ${{ vars.FORCE }}
+          ENABLE_COMMODITIES: ${{ vars.ENABLE_COMMODITIES }}
+          GOLD_PREMIUM: ${{ vars.GOLD_PREMIUM }}
+          SILVER_PREMIUM: ${{ vars.SILVER_PREMIUM }}
+      - name: Publish email files
+        run: |
+          git config user.name "market-bot"; git config user.email "bot@users.noreply.github.com"
+          git add docs && (git diff --cached --quiet || git commit -m "Market email $(date -u +%F)") && git push
